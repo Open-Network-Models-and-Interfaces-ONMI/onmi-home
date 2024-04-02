@@ -11,7 +11,7 @@ The goal of the ONMI project is to is to develop open models, interface specific
 These sub-projects can be accessed at their individual repositories:
 - [onmi/tapi](https://github.com/OpenNetworkingFoundation/TAPI)
 - [onmi/xhaul](https://github.com/Open-Network-Models-and-Interfaces-ONMI/xhaul-home/tree/main)
-- onmi/iisomi - to be provided
+- [onmi/iisomi](https://github.com/Open-Network-Models-and-Interfaces-ONMI/iisomi-home)
 
 To participate in the project
 
