@@ -9,8 +9,8 @@ The goal of the ONMI project is to is to develop open models, interface specific
 - IISOMI (Informal Inter-SDO Open Modeling Initiative)
 
 These sub-projects can be accessed at their individual repositories:
-- [tapi](https://github.com/OpenNetworkingFoundation/TAPI)](https://github.com/Open-Network-Models-and-Interfaces-ONMI/TAPI)
-- [xhaul](https://github.com/Open-Network-Models-and-Interfaces-ONMI/xhaul-home/tree/main)](https://github.com/Open-Network-Models-and-Interfaces-ONMI/xhaul-home)
+- [tapi](https://github.com/Open-Network-Models-and-Interfaces-ONMI/TAPI)
+- [xhaul](https://github.com/Open-Network-Models-and-Interfaces-ONMI/xhaul-home)
 - [iisomi](https://github.com/Open-Network-Models-and-Interfaces-ONMI/iisomi-home)
 
 Mailing lists
