@@ -1,9 +1,9 @@
 # ONMI-home
 This is the Github landing page for ONMI project.
 
-ONMI stands for Open Network Modeling and Interfaces. This project stems from the Open Transport Configuration and Control and Open Information Modeling and Tooling projects in the Open Networking Foundation. Following the merger of ONF and the Linux Foundation, these projects have now been transitioned to the Linux Foundation as ONMI.
+ONMI stands for Open Network Modeling and Interfaces. This project stems from the Open Transport Configuration and Control (OTCC) and Open Information Modeling and Tooling (OIMT) projects in the Open Networking Foundation. Following the merger of ONF and the Linux Foundation, these projects have now been transitioned to the Linux Foundation as ONMI.
 
-The goal of the ONMI project is to is to develop open models, interface specifications and supporting tooling for management and control of transport networks, including optical and wireless technologies.
+The goal of the ONMI project is to develop open models, interface specifications and supporting tooling for management and control of transport networks, including optical and wireless technologies.
 
 The ONMI project currently includes 3 sub-projects:
 
