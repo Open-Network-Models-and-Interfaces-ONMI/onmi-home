@@ -22,7 +22,7 @@ The ONMI project currently includes 3 sub-projects:
   - [Contributions](https://github.com/Open-Network-Models-and-Interfaces-ONMI/TAPI/tree/tapi-team-activities/TAPI-TEAM-ACTIVITIES/Contributions)
   - To participate in the project please join the mailing list and participate in meetings:
     - Mailing list: transport-api@opennetworking.org
-    - Meetings: Tuesday 9:00 AM US Eastern (Daylight) Time
+    - Meetings: Tuesday 9:00 AM US Eastern (Daylight) Time. Duration two hours.
     - [Zoom](https://www.google.com/url?q=https%3A%2F%2Fonf.zoom.us%2Fj%2F450246209%3Fpwd%3Dd3JDWk41TUcrOHVId2pBRXNuWUlGQT09&sa=D&source=calendar&usd=2&usg=AOvVaw2Qr2PY0nsVUMZEL4mZJlB5)
     - Contacts: [Andrea Mazzini](andrea.mazzini@nokia.com), [Nigel Davis](ndavis@ciena.com)
   
@@ -30,9 +30,10 @@ The ONMI project currently includes 3 sub-projects:
   - [xHaul home](https://github.com/Open-Network-Models-and-Interfaces-ONMI/xhaul-home)
   - To participate in the project please join the mailing list and participate in meetings:
     - Mailing list: transport-api@opennetworking.org
-    - Meetings: Tuesday and Wednesday
-    - Contacts: 
-  
+    - Meetings: Wednesday mornings at 6:00 AM US Pacific Daylight Time, 9:00 AM US Eastern Daylight Time, 3:00 PM CEsT. Duration one hour.
+    - [Klicken Sie hier, um an der Besprechung teilzunehmen](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzJmY2FiNjktMGZiZS00MzYzLWExMmEtMDY3YjJmNmQyZGE0%40thread.v2/0?context=%7b%22Tid%22%3a%229744600e-3e04-492e-baa1-25ec245c6f10%22%2c%22Oid%22%3a%228373ecd2-b5b9-4b48-849d-3bee853f6cc0%22%7d)
+    - Contacts:
+   
 ## IISOMI (Informal Inter-SDO Open Modeling Initiative)
   - [IISOMI home](https://github.com/Open-Network-Models-and-Interfaces-ONMI/iisomi-home)
   - To participate in the project please join the mailing list and participate in meetings:
