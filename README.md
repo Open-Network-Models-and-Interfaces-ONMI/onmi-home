@@ -14,7 +14,7 @@ The ONMI project currently includes 3 sub-projects:
   - Main release in production: [TAPI v2.1.3](https://github.com/Open-Network-Models-and-Interfaces-ONMI/TAPI/releases/tag/v2.1.3)
     - [Reference Implementation Agreement TR-547 for TAPI 2.1.3](https://github.com/Open-Network-Models-and-Interfaces-ONMI/TAPI/tree/tapi-team-activities/TAPI-TEAM-ACTIVITIES/RIA/Delivered/V1.1)
     - [Reference Implementation Agreement TR-548 _streaming_ for TAPI 2.1.3](https://github.com/Open-Network-Models-and-Interfaces-ONMI/TAPI/blob/tapi-team-activities/TAPI-TEAM-ACTIVITIES/RIA/Delivered/V1.1/otcc2021.ND.003_TR-548_V1.1.zip)
-  - [Work in progress](https://github.com/Open-Network-Models-and-Interfaces-ONMI/TAPI/tree/develop)
+  - Release in progress: [TAPI develop](https://github.com/Open-Network-Models-and-Interfaces-ONMI/TAPI/tree/develop)
   - [Plan](https://github.com/Open-Network-Models-and-Interfaces-ONMI/TAPI/wiki/TAPI-Plan)
   - [wiki](https://github.com/Open-Network-Models-and-Interfaces-ONMI/TAPI/wiki)
   - [Meeting minutes](https://github.com/Open-Network-Models-and-Interfaces-ONMI/TAPI/wiki/2023-%E2%80%90-2024-TAPI-Meeting-Minutes)
