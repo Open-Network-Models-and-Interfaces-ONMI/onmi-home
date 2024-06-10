@@ -23,7 +23,7 @@ The ONMI project currently includes 3 sub-projects:
   - To participate in the project please join the mailing list and participate in meetings:
     - Mailing list: transport-api@opennetworking.org
     - Meetings: Tuesday 9:00 AM US Eastern (Daylight) Time. Duration two hours.
-    - [Zoom](https://www.google.com/url?q=https%3A%2F%2Fonf.zoom.us%2Fj%2F450246209%3Fpwd%3Dd3JDWk41TUcrOHVId2pBRXNuWUlGQT09&sa=D&source=calendar&usd=2&usg=AOvVaw2Qr2PY0nsVUMZEL4mZJlB5)
+    - [Zoom]( https://zoom-lfx.platform.linuxfoundation.org/meetings/onmi-project)
     - Contacts: [Andrea Mazzini](andrea.mazzini@nokia.com), [Nigel Davis](ndavis@ciena.com)
   
 ## xHaul (Wireless xHaul)
