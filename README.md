@@ -42,6 +42,9 @@ The ONMI project currently includes 3 sub-projects:
     - [Zoom](https://zoom-lfx.platform.linuxfoundation.org/meeting/99864897858?password=85a4a405-f125-425d-9381-ff11f15f163e)
     - Contacts: 
 
+The **ONMI** project leader is:
+- Lyndon Ong (no affiliation)
+  
 The **ONMI Technical Steering Team (TST)** includes the following members:
 - Lyndon Ong (no affiliation)
 - Italo Busi (Huawei)
@@ -51,6 +54,6 @@ The **ONMI Technical Steering Team (TST)** includes the following members:
 - Kam Lam (FibreHome USA)
 - Andrea Mazzini (Nokia)
 - Arturo Mayoral (TIP)
-- Karthik Sethuraman (NEC)
+- Karthik Sethuraman (to be reconfirmed)
 - Martin Skorupski (HighStreet)
 - Tracy Van Brakle (ATT)
